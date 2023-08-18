@@ -1,4 +1,4 @@
-include <Servo.h>
+#include <Servo.h>
 
 Servo servo1;
 Servo servo2;
@@ -70,4 +70,30 @@ void offed() {
   digitalWrite(ledPin4, LOW);
   digitalWrite(ledPin5, LOW);
   digitalWrite(ledPin6, LOW);
+}
+
+void sev0(int k) {
+  int servoPin;
+  Servo servo;
+  
+  switch (k) {
+    case 17:
+      servoPin = servoPin1;
+      servo = servo1;
+      break;
+    case 18:
+      servoPin = servoPin2;
+      servo = servo2;
+      break;
+    case 27:
+      servoPin = servoPin3;
+      servo = servo3;
+      break;
+ 
+  }
+  
+  servo.attach(servoPin);
+  servo.write(45);
+  delay(1000);
+  servo.detach();
 }
