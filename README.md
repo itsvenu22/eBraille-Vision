@@ -23,3 +23,5 @@ If you have any questions or want to connect with us, feel free to reach out:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsvenu22)
 
   Thank you for visiting our repository! We're thrilled to share our IoT journey and victory with you.
+
+  [![An image of @itsvenu22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsvenu22)](https://holopin.io/@itsvenu22)
