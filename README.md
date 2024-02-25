@@ -1,4 +1,5 @@
 # eBraille-Vision
+The eBraille-Vision Braille Display is a cutting-edge device tailored for the visually impaired, providing an intuitive and tactile interface for accessing digital content. It's portable and convenient for use in various environments. With tactile feedback, users can feel each braille character, enhancing the reading experience.
 #### By IoT Wizards
 ![IoT-Wizards Logo](https://opengameart.org/sites/default/files/forum-attachments/giphy.gif)
 
