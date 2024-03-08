@@ -17,13 +17,13 @@ If you have any questions or want to connect with us, feel free to reach out:
 ### Connect with me:
 
 <a href="https://twitter.com/venukanthan_bs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height=36 width=36/>
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark"/>
 </a>
 <a href="https://www.linkedin.com/in/venukanthan/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height=36 width=36/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
 </a>
 <a href="https://www.instagram.com/itsvenu22/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height=36 width=36/>
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark"/>
 </a>
 
   Thank you for visiting our repository! We're thrilled to share our IoT journey and victory with you.
